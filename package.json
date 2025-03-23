@@ -1,9 +1,12 @@
 {
     "author": "Orlando Cruz",
     "name": "censorify",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cruzo75/censorify"},
     "dependencies": {},
     "engines": {
         "node": ">=6.0.0"
