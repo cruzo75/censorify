@@ -6,8 +6,11 @@
     "main": "censortext",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cruzo75/censorify"},
-    "dependencies": {},
+        "url": "https://github.com/cruzo75/censorify"
+    },
+    "dependencies": {
+        "censorify": "file:"
+    },
     "engines": {
         "node": ">=6.0.0"
     }
